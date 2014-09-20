@@ -1,0 +1,25 @@
+.centering {
+    text-align: center;
+}
+
+.photo {
+    width: 400px;
+}
+.bio {
+    margin-top: 50px;
+    margin-left: 300px;
+    width: 800px;
+    line-height: 50px;
+}
+
+
+.font-big {
+    font-size: 30px;
+}
+.font-small {
+    font-size: 20px;
+}
+
+.link {
+    color: #68adc3;
+}
